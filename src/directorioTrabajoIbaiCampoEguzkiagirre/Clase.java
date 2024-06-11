@@ -2,7 +2,7 @@ package directorioTrabajoIbaiCampoEguzkiagirre;
 
 public class Clase {
 	
-	// Tercera fas
+	// Tercera fase
 	
 	
 	public Clase() {

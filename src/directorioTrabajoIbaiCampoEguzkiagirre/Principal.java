@@ -7,8 +7,8 @@ public class Principal {
 		
 		// Segunda fase
 		
-		Clase objetoClase = new Clase();
 		
+		Clase objetoClase = new Clase();
 	}
 
 }
